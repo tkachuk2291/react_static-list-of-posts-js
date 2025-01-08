@@ -24,3 +24,4 @@ export const PostInfo = ({ post }) => (
 
   </div>
 );
+
